@@ -11,5 +11,5 @@ public class App {
  System.out.println("Categoria: "+p.classifica());
  }
 }
-//comentário inserido na branch main
+//comentario inserido na branch main
 //Bug corrigido
